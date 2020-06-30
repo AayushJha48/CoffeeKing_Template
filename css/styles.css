@@ -1,0 +1,112 @@
+h3 {
+  font-size: 3rem !important;
+  font-style: bold !important;
+  font-family: "Bree Serif", serif;
+}
+
+/* Style for navigation section */
+
+.nav-wrapper {
+  background-color: #6f4037;
+}
+
+.header {
+  padding: 20px;
+  padding-bottom: 30px;
+}
+
+.sidenav a {
+  text-decoration: none;
+}
+
+.nav-wrapper > a {
+  text-decoration: none;
+  font-family: "Pacifico", cursive;
+}
+
+/* Style for sliders section */
+
+.slider-msg {
+    /* font-style: bold !important; */
+    font-weight: 600 !important;
+}
+
+.carousel .indicators .indicator-item.active {
+  background-color: #6f4037 !important;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #6f4037;
+}
+
+/* Style for description section */
+.descrip-img {
+  object-fit: contain;
+  height: 200px;
+  width: auto;
+}
+
+.description {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+/* Style for cards section */
+.fcards-row {
+  padding: 0 50px 0 50px;
+}
+
+.fcards-col {
+  padding: 50px 5px;
+}
+
+/* Style for Parallex section */
+.parallax-container {
+  min-height: 280px;
+  height: auto;
+}
+
+/* Style for about section */
+.fabout-btn {
+  background-color: #6f4037 !important;
+}
+
+/* Style for services section */
+.fservices-row {
+  padding: 0 50px 0 50px;
+}
+
+.fservices-col {
+  padding: 50px;
+}
+
+.icon-coffee {
+  color: #6f4037;
+}
+
+hr {
+  color: #6f4037;
+  height: 10px;
+
+  border: none;
+  background-color: #6f4037;
+}
+
+/* Style for reviews section */
+.myreviews {
+  margin-bottom: 30px;
+}
+
+.freviews-row {
+  background-color: #6f4037 !important;
+}
+
+/* Style for footer section */
+.footer-one {
+  background-color: #6f4037;
+}
+
+.footer-two, .footer-two .row {
+  background-color: #462822;
+  margin-bottom: 0;
+}
